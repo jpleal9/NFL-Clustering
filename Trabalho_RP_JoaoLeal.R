@@ -372,5 +372,5 @@ df$Classification_hierarquic = groups.k6
 
 #Clusters profiling ----
 
-write.xlsx(df, file = "madden_profiling.csv")
+write.xlsx(df, file = "madden_profiling.xlsx")
 #To export the dataset to be analysed in Excel
